@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Ciclo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Clases" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Operadores" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SentenciasControl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TiposPrimitivos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PasoReferencia" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Encapsulamiento" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Herencia" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PalabraFinal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Paquetes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SobrecargaMetodos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Arreglos" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

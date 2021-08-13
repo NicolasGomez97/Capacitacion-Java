@@ -1,0 +1,6 @@
+3;Guido Herrera;4444;15/04/1997;Argentina;50000;5;75;ARQ;D;1;4;2;2;1000;70;1,72;42;20
+1;Rafa Perez;1111;15/04/1989;Colombia;50000;3;67;DEF;D;1;4;2;2;400;80;1,72
+2;Armando Pie;2222;15/04/1960;Argentina;40000;Lider;60
+1;Federico Navarro;3333;15/04/1997;Argentina;50000;5;80;MED;D;1;4;2;2;800;80;1,72
+1;Nicolas Gomez;5555;15/04/1997;Argentina;50000;5;75;MED;D;1;4;2;2;650;72;1,72
+2;Facundo Medina;6666;15/04/1975;Argentina;40000;DT;60
