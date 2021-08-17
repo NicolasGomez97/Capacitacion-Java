@@ -1,6 +1,7 @@
-package test;
+package v1.test;
 
 import domain.*;
+import v1.domain.ListaEquipo;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -61,9 +62,13 @@ public class Test {
                     break;
             }
             lsjugador.agregar(nuevo);
-            //System.out.println(lsjugador.getLista());
+            System.out.println(lsjugador.getLista());
         }
-        lsjugador.getLista().stream().forEach(System.out::println);
-        lsjugador.getLista().stream();
+        lsjugador.imprimirCalcularMontoSuelo();
+        lsjugador.imprimirPromedioSueldo();
+        lsjugador.imprimirPromedioEdad();
+        lsjugador.imprimirPromedioVelocidad();
+        lsjugador.imprimirVelocidadMaxima();
+        lsjugador.imprimirVelocidadMinimo();
     }
 }
