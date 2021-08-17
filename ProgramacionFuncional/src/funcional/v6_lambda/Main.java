@@ -10,10 +10,9 @@ public class Main {
 
     public Main() {
         //Ejemplo
+        Random random = new Random();
         Integer total =
-                    Flujo.proveer(10, () ->{
-                        Random random = new Random();
-                        return random.nextInt(10); })
+                    Flujo.proveer(10, () ->random.nextInt(10))
                             .filtrar(valor -> valor % 2 ==0)
                             .transformar(valor -> valor * valor)
                             .actuar(valor -> System.out.println(valor))
